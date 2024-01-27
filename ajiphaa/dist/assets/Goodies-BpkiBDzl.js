@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as t,a as o}from"./index-fxRafBAc.js";const a={},c={class:"about bg-body-secondary"},n=o("h1",null,"This is an about page",-1),_=o("h1",null,"This is an about page",-1),i=[n,_];function r(d,h){return t(),e("div",c,i)}const u=s(a,[["render",r]]);export{u as default};
